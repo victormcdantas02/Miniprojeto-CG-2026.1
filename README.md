@@ -9,12 +9,6 @@ Este projeto consiste na criação de um **relógio analógico interativo**, com
 
 A ideia foi simular o funcionamento de um relógio real, onde cada elemento (ponteiros, números e estrutura) é desenhado e transformado dinamicamente no canvas.
 ---
-## 🎮 Interatividade
-
-* 🖱️ Scroll do mouse: controla o zoom do relógio
-
----
-
 ## Autores
 
 **Pedro Ayres** e **Victor Dantas** 
